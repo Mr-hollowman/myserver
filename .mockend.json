@@ -1,35 +1,28 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+  "Blogs": [
+    {
+      "title": "my third blog",
+      "body": "Lorem.........",
+      "author": "kavi",
+      "id": 1
     },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+    {
+      "title": "siva",
+      "body": "dsjlkfj;asdlkfldkmnfdlvknmlk",
+      "author": "selva",
+      "id": 2
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
+    {
+      "title": "parvadha's blog",
+      "body": "this is our first blog in our blogs site",
+      "author": "selva",
+      "id": 3
     },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
-    },
-    "isDraft": {
-      "boolean": {}
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
+    {
+      "title": ",mk",
+      "body": " j nj",
+      "author": "selva",
+      "id": 4
     }
-  }
+  ]
 }
