@@ -1,4 +1,4 @@
-{
+[
   "Posts": {
     {
       "title": "my third blog",
@@ -25,4 +25,4 @@
       "id": 4
     }
 }
-}
+]
